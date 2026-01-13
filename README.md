@@ -17,8 +17,8 @@ A beginner-friendly scientific calculator built using **Python** with a **Tkinte
 - Building a GUI with Tkinter (buttons, screen, events)
 - Git and GitHub workflow (commit, push, versioning)
 
-## ▶️ How to Run
-### 1) Clone the repo
+## How to Run
+### Firstly, clone the repo. Then use the calculator freely.
 ```bash
 git clone <your-repo-link>
 cd ScientificCalculator
